@@ -1,0 +1,9 @@
+| Address | Name           | What it represents        |
+| ------- | -------------- | ------------------------- |
+| `I0.0`  | START          | Start button              |
+| `I0.1`  | STOP           | Stop button               |
+| `I0.2`  | E_STOP         | Emergency-stop state      |
+| `I0.3`  | OBJECT_SENSOR  | Detects an object         |
+| `I0.4`  | RESET          | Resets the system/counter |
+| `Q0.0`  | CONVEYOR_MOTOR | Conveyor motor            |
+| `Q0.1`  | FAULT_LAMP     | Fault indication          |
