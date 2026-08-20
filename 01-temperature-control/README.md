@@ -28,14 +28,15 @@ whether a cooling fan should be ON or OFF.
 - Basic automation
 - Threshold-based control
 
-  Version 1 — Basic Temperature Control
+
+Version 1 — Basic Temperature Control
   
 • Simple threshold-based control
 
 • Demonstrates variables, conditions and functions
 
 
-  Version 2 — Improved Temperature Control
+Version 2 — Improved Temperature Control
   
 • Adds hysteresis
 
